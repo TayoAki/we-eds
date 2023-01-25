@@ -1,0 +1,21 @@
+header.masthead {
+  position: relative;
+  width: 100%;
+  padding-top: 150px;
+  padding-bottom: 10px;
+  color: #000000;
+  background: #ffffff;
+}
+
+.line {
+  border-bottom: 3px solid #000000;
+  display: block;
+  width: 100%;
+}
+
+.btn:hover, .btn:focus, .btn:active, .btn.active {
+  color: #000000;
+  border-color: #000000;
+  background-color: #ffffff;
+}
+

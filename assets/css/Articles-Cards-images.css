@@ -1,0 +1,12 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.nav-item a {
+  color: white;
+}
+
+.testimonial-content .btn:hover, .btn:focus, .btn:active, .btn.active {
+  color: white;
+}
+
